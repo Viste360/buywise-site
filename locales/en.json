@@ -1,0 +1,169 @@
+{
+  "brand": "Buywise",
+  "nav": {
+    "home": "Home",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "heading": "Before You Buy, Let Us Negotiate Your Price Down",
+    "sub": "Full 360° Home buyer representation—negotiation, legal & mortgage support. No savings, no fee.",
+    "cta": "Chat on WhatsApp"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": [
+      "1. Find a property you love.",
+      "2. Send us the listing link & your availability.",
+      "3. We review all paperwork & negotiate for you.",
+      "4. You save—price reduced or cashback (conditions apply)."
+    ]
+  },
+  "services": {
+    "title": "Our 360° Buyer Services",
+    "items": [
+      {
+        "title": "Expert Negotiation",
+        "desc": "We haggle down the list price before you sign, saving you real money up front."
+      },
+      {
+        "title": "Legal Guidance",
+        "desc": "Trusted lawyers review contracts so you never get caught out by hidden fees."
+      },
+      {
+        "title": "Mortgage Support",
+        "desc": "We connect you with the best lenders and help secure your financing seamlessly."
+      }
+    ]
+  },
+  "calculator": {
+    "title": "BuyWise Calculator",
+    "label_price": "Property Price (€):",
+    "savings_text": "Your approximate savings before sale:",
+    "no_fee_text": "No purchase. No fee. Guaranteed final Savings."
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "items": [
+      {
+        "text": "“Saved over €12,000 and had complete peace of mind.”",
+        "author": "Alice, Marbella"
+      },
+      {
+        "text": "“They negotiated my price down by 3%! Absolute pros.”",
+        "author": "John, Málaga"
+      },
+      {
+        "text": "“From start to finish, they had our backs—and the savings show it.”",
+        "author": "Emma & Carlos, Fuengirola"
+      }
+    ]
+  },
+  "caseStudies": {
+    "couple": {
+      "title": "Carlos & Emma’s €14,000 Savings",
+      "story": [
+        "They loved a €495 000 flat but the terrace wasn’t legalized.",
+        "We reviewed their Nota Simple, got all the paperwork in order, then negotiated:",
+        "• €8 000 off to cover legal regularization",
+        "• €6 000 further price reduction"
+      ],
+      "savings_legal": "Legal Regularization (€{legal})",
+      "savings_negotiation": "Negotiation Savings (€{neg})",
+      "total_savings": "Total Savings: €{total}"
+    },
+    "mary": {
+      "title": "Mary’s €5,400 Savings",
+      "story": [
+        "Mary found a €350 000 townhouse—only to discover hidden community fees.",
+        "We dug into the contract, secured full disclosure, and negotiated:",
+        "• €5 400 off the final sale price"
+      ],
+      "savings_legal": "",
+      "savings_negotiation": "Negotiation Savings (€{neg})",
+      "total_savings": "Total Savings: €{total}"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "How does BuyWise Spain save me money?",
+        "a": "We negotiate directly with the listing agency to lower your purchase price before you sign any contracts. By redirecting a portion of the seller’s commission back to you, we ensure immediate savings on your final price."
+      },
+      {
+        "q": "Can BuyWise Spain support me at every step of the buying process?",
+        "a": "Absolutely. We offer full 360° buyer representation, from price negotiation and legal guidance to mortgage support. We coordinate with lawyers and lenders to make the process seamless."
+      },
+      {
+        "q": "I’ve already visited the property. Can you still help me?",
+        "a": "If you’ve already signed an offer or reservation agreement, our ability to negotiate on your behalf may be limited. It’s best to reach out before you commit so we can secure maximum savings."
+      },
+      {
+        "q": "What payment options are available for the cashback or discount?",
+        "a": "We offer the savings as a direct reduction on the final purchase price or as a separate cashback refund after closing. The seller covers our buyer’s agent commission, and you choose the modality that works best for you."
+      },
+      {
+        "q": "Where does BuyWise Spain operate?",
+        "a": "We operate nationally across Spain, with a focus on the Costa del Sol and major cities. We serve both English-speaking expats and local buyers throughout the country."
+      }
+    ]
+  },
+  "contactForm": {
+    "heading": "Let’s Get Started",
+    "name_placeholder": "Your Name",
+    "email_placeholder": "Your Email",
+    "phone_placeholder": "Your Phone / WhatsApp",
+    "stage_legend": "Where are you in the buying process?",
+    "stage_options": ["Just looking", "Already visited a property", "Under offer / paperwork"],
+    "listings_label": "Listing links (URL)",
+    "listings_placeholder": "Paste property URLs you like",
+    "start_label": "Start date & time",
+    "end_label": "End date & time",
+    "submit": "Submit & Start Saving",
+    "thankyou_title": "Thank you!",
+    "thankyou_message": "We’ve received your details and will be in touch shortly."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "content": [
+      {
+        "heading": "Information We Collect",
+        "text": "We collect name, email, phone and availability when you submit our form."
+      },
+      {
+        "heading": "How We Use It",
+        "text": "We use it to schedule viewings, negotiate on your behalf, and contact you via WhatsApp or email."
+      },
+      {
+        "heading": "Third-Party Sharing",
+        "text": "We do not sell your data. We only share with our legal/mortgage partners as needed."
+      },
+      {
+        "heading": "Your Rights",
+        "text": "You may request data deletion at any time by emailing privacy@buywise.es."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "content": [
+      {
+        "heading": "Acceptance of Terms",
+        "text": "By accessing and using this website, you agree to be bound by these terms."
+      },
+      {
+        "heading": "Service Description",
+        "text": "BuyWise Spain provides buyer representation services including negotiation, legal guidance, and mortgage support."
+      },
+      {
+        "heading": "Fees",
+        "text": "Our fee is contingent on successfully saving money on your purchase. If we do not save you money, you owe nothing."
+      },
+      {
+        "heading": "Limitation of Liability",
+        "text": "We are not liable for any indirect or consequential damages arising from the use of our services."
+      }
+    ]
+  }
+}

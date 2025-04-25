@@ -1,7 +1,9 @@
 // components/Services.js
 import { FaHandshake, FaGavel, FaPiggyBank } from 'react-icons/fa';
+import useT from '../lib/useTranslation'
 
 export default function Services() {
+  const { how } = useT(); 
   const items = [
     {
       Icon: FaHandshake,

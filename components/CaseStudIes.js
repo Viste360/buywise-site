@@ -1,5 +1,6 @@
 // components/CaseStudies.js
 import Image from 'next/image';
+import useT          from '../lib/useTranslation';
 
 const studies = [
   {
@@ -28,16 +29,27 @@ const studies = [
 ];
 
 export default function CaseStudies() {
+  const { how } = useT(); 
   return (
-    <section className="py-16 bg-white">
+    <section
+      className="py-16 bg-white"
+      data-aos="fade-up"
+      data-aos-duration="800"
+    >
       <div className="max-w-5xl mx-auto px-4 space-y-16">
-        {studies.map(({ id, title, img, story, savings }) => {
+        {studies.map(({ id, title, img, story, savings }, idx) => {
           const total = savings.legal + savings.negotiation;
           const legalPct = total ? (savings.legal / total) * 100 : 0;
-          const negPct = total ? (savings.negotiation / total) * 100 : 0;
+          const negPct   = total ? (savings.negotiation / total) * 100 : 0;
 
           return (
-            <div key={id} className="space-y-6">
+            <div
+              key={id}
+              className="space-y-6"
+              data-aos="fade-up"
+              data-aos-delay={`${idx * 150}`}
+              data-aos-duration="600"
+            >
               <h2 className="text-3xl font-bold text-center">{title}</h2>
 
               <div className="flex flex-col md:flex-row items-start md:items-center gap-6">
@@ -89,7 +101,8 @@ export default function CaseStudies() {
                 )}
 
                 <div className="text-right text-lg font-semibold">
-                  Total Savings: <span className="text-green-700">€{total.toLocaleString()}</span>
+                  Total Savings:
+                  <span className="text-green-700">€{total.toLocaleString()}</span>
                 </div>
               </div>
             </div>

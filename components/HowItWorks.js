@@ -1,7 +1,9 @@
 // components/HowItWorks.js
 import { FaSearch, FaPaperPlane, FaFileAlt, FaPiggyBank } from 'react-icons/fa';
+import useT from '../lib/useTranslation';
 
 export default function HowItWorks() {
+  const { how } = useT(); 
   const steps = [
     { Icon: FaSearch, label: '1. Find a property you love.' },
     { Icon: FaPaperPlane, label: '2. Send us the listing link & your availability.' },

@@ -1,5 +1,7 @@
 // components/Testimonials.js
+import useT from '../lib/useTranslation'
 export default function Testimonials() {
+  const { how } = useT(); 
   const quotes = [
     { text: '“Saved over €12,000 and had complete peace of mind.”', author: 'Alice, Marbella' },
     { text: '“They negotiated my price down by 3%! Absolute pros.”', author: 'John, Málaga' },

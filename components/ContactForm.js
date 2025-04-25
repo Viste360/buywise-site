@@ -2,11 +2,13 @@
 import { useState } from 'react';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
+import useT                             from '../lib/useTranslation'
 
 const SHEET_URL =
   'https://script.google.com/macros/s/AKfycbw-dWTYfg2kn_AwyDly-0LeIVRRVBGPkLMfsEuYKKvRd9mQRVQhThrOaCrkOfNFN0P9/exec';
 
 export default function ContactForm() {
+  const { how } = useT(); 
   const [sent, setSent] = useState(false);
   const [startDate, setStartDate] = useState(null);
   const [endDate, setEndDate]   = useState(null);

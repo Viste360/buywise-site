@@ -1,0 +1,169 @@
+{
+  "brand": "Buywise",
+  "nav": {
+    "home": "Inicio",
+    "faq": "Preguntas",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "heading": "Antes de comprar, déjanos negociar tu precio a la baja",
+    "sub": "Representación integral 360°: negociación, asesoría legal y apoyo hipotecario. Sin ahorro, sin coste.",
+    "cta": "Chatea por WhatsApp"
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona",
+    "steps": [
+      "1. Encuentra la propiedad que te encanta.",
+      "2. Envíanos el enlace del anuncio y tu disponibilidad.",
+      "3. Revisamos toda la documentación y negociamos por ti.",
+      "4. Ahorras—precio reducido o reembolso (aplican condiciones)."
+    ]
+  },
+  "services": {
+    "title": "Nuestros Servicios 360°",
+    "items": [
+      {
+        "title": "Negociación Experta",
+        "desc": "Negociamos el precio de lista antes de que firmes, ahorrándote dinero real de entrada."
+      },
+      {
+        "title": "Asesoría Legal",
+        "desc": "Abogados de confianza revisan los contratos para que nunca te sorprendan las comisiones ocultas."
+      },
+      {
+        "title": "Apoyo Hipotecario",
+        "desc": "Te conectamos con los mejores prestamistas y te ayudamos a gestionar tu financiación sin complicaciones."
+      }
+    ]
+  },
+  "calculator": {
+    "title": "Calculadora BuyWise",
+    "label_price": "Precio de la propiedad (€):",
+    "savings_text": "Tu ahorro aproximado antes de la compra:",
+    "no_fee_text": "Sin compra. Sin coste. Ahorros garantizados."
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "items": [
+      {
+        "text": "“Ahorré más de €12 000 y tuve total tranquilidad.”",
+        "author": "Alice, Marbella"
+      },
+      {
+        "text": "“Negociaron mi precio a la baja un 3%! Profesionales de verdad.”",
+        "author": "John, Málaga"
+      },
+      {
+        "text": "“De principio a fin nos respaldaron—and los ahorros lo demuestran.”",
+        "author": "Emma & Carlos, Fuengirola"
+      }
+    ]
+  },
+  "caseStudies": {
+    "couple": {
+      "title": "Ahorro de €14 000 de Carlos & Emma",
+      "story": [
+        "Les encantó un piso de €495 000 pero la terraza no estaba legalizada.",
+        "Revisamos su Nota Simple, gestionamos toda la documentación y negociamos:",
+        "• €8 000 de descuento para cubrir la regularización legal",
+        "• €6 000 de rebaja adicional sobre el precio de lista"
+      ],
+      "savings_legal": "Regularización Legal (€{legal})",
+      "savings_negotiation": "Ahorro por Negociación (€{neg})",
+      "total_savings": "Ahorro Total: €{total}"
+    },
+    "mary": {
+      "title": "Ahorro de €5 400 de Mary",
+      "story": [
+        "Mary encontró un adosado de €350 000—solo para descubrir cuotas de comunidad ocultas.",
+        "Estudiamos el contrato, obtuvimos la información completa y negociamos:",
+        "• €5 400 de descuento sobre el precio final"
+      ],
+      "savings_legal": "",
+      "savings_negotiation": "Ahorro por Negociación (€{neg})",
+      "total_savings": "Ahorro Total: €{total}"
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "q": "¿Cómo me ayuda BuyWise España a ahorrar?",
+        "a": "Negociamos directamente con la agencia anunciante para bajar el precio antes de que firmes contratos. Redirigimos parte de la comisión del vendedor a ti, garantizando un ahorro inmediato en tu compra."
+      },
+      {
+        "q": "¿Puedo contar con BuyWise España en todo el proceso de compra?",
+        "a": "Por supuesto. Ofrecemos representación 360° al comprador: negociación, asesoría legal y apoyo hipotecario. Coordinamos con abogados y entidades financieras para que todo fluya sin sobresaltos."
+      },
+      {
+        "q": "Ya he visitado la propiedad. ¿Podéis ayudarme todavía?",
+        "a": "Si ya firmaste una oferta o un contrato de reserva, nuestra capacidad de negociar se reduce. Lo ideal es que nos contactes antes de comprometerte para maximizar tu ahorro."
+      },
+      {
+        "q": "¿Cómo puedo recibir el descuento o reembolso?",
+        "a": "Puedes elegir entre una reducción directa en el precio final o un reembolso por transferencia tras el cierre de la compra. El vendedor asume nuestra comisión de agente, y tú decides cómo prefieres el ahorro."
+      },
+      {
+        "q": "¿Dónde opera BuyWise España?",
+        "a": "Trabajamos en toda España, con foco en la Costa del Sol y las principales ciudades. Atendemos tanto a expats de habla inglesa como a compradores nacionales."
+      }
+    ]
+  },
+  "contactForm": {
+    "heading": "Comencemos",
+    "name_placeholder": "Tu nombre",
+    "email_placeholder": "Tu correo",
+    "phone_placeholder": "Tu teléfono/WhatsApp",
+    "stage_legend": "¿En qué fase estás?",
+    "stage_options": ["Solo mirando", "Ya visité una propiedad", "En oferta / trámites"],
+    "listings_label": "Enlaces de anuncios (URL)",
+    "listings_placeholder": "Pega aquí los URLs que te interesen",
+    "start_label": "Fecha y hora inicio",
+    "end_label": "Fecha y hora fin",
+    "submit": "Enviar y Empezar Ahorro",
+    "thankyou_title": "¡Gracias!",
+    "thankyou_message": "Hemos recibido tus datos y te contactaremos pronto."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "content": [
+      {
+        "heading": "Información que Recogemos",
+        "text": "Recogemos nombre, correo, teléfono y disponibilidad cuando envías nuestro formulario."
+      },
+      {
+        "heading": "Cómo la Usamos",
+        "text": "La usamos para agendar visitas, negociar en tu nombre y contactarte por WhatsApp o correo."
+      },
+      {
+        "heading": "Compartición con Terceros",
+        "text": "No vendemos tus datos. Solo los compartimos con nuestros socios legales/hipotecarios cuando sea necesario."
+      },
+      {
+        "heading": "Tus Derechos",
+        "text": "Puedes solicitar la eliminación de tus datos en cualquier momento escribiendo a privacy@buywise.es."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "content": [
+      {
+        "heading": "Aceptación de Términos",
+        "text": "Al acceder y usar este sitio web, aceptas estos términos."
+      },
+      {
+        "heading": "Descripción del Servicio",
+        "text": "BuyWise Spain ofrece servicios de representación al comprador, incluyendo negociación, asesoría legal y apoyo hipotecario."
+      },
+      {
+        "heading": "Honorarios",
+        "text": "Nuestra tarifa depende de lograr un ahorro en tu compra. Si no conseguimos ahorro, no pagas nada."
+      },
+      {
+        "heading": "Limitación de Responsabilidad",
+        "text": "No somos responsables por daños indirectos o consecuentes derivados del uso de nuestros servicios."
+      }
+    ]
+  }
+}
